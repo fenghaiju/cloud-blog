@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/cloud-blog/',
     title: '猿先生',
     description: "在不断地学习和实践后所整理记录的个人笔记",
     lastUpdated: '最近更新',
